@@ -1,0 +1,13 @@
+product,category,stock_units,daily_demand,days_to_expiry,price_eur,unit_weight_kg,donation_eligible
+Milk 1L,Dairy,80,25,2,1.59,1.03,True
+Bread loaf,Bakery,60,40,1,2.49,0.50,True
+Yogurt cup,Dairy,100,20,5,0.89,0.15,True
+Strawberries 500g,Produce,50,10,2,3.49,0.50,True
+Cheese 200g,Dairy,40,5,12,2.99,0.20,True
+Bananas 1kg,Produce,70,15,3,1.99,1.00,True
+Salad bag,Produce,45,12,1,1.79,0.20,True
+Fresh pasta,Chilled,55,8,3,3.29,0.40,True
+Orange juice 1L,Beverages,35,6,4,2.69,1.05,True
+Ready meal,Chilled,30,5,0,4.99,0.35,False
+Tomatoes 1kg,Produce,90,20,2,2.39,1.00,True
+Croissant,Bakery,75,45,1,1.29,0.09,True
